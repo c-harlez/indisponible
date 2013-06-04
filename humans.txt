@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Frédéric France> -- <manager>
+    <Yann Bogdanovic> -- <developper> -- <ianbogda>
+
+# THANKS
+
+    <CDG46>
+    <CDG47>
+    <CDG82>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
